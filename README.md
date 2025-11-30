@@ -4,7 +4,7 @@ Hi there! This is my study note on **DNS sinkholing**, created for my _Security 
 
 In this repo, you’ll find:
 
-- How DNS is used as a defensive tool (sinkhole)
+- How DNS is used as a defensive tool (sinkhole) -> [sinkhole overview](sinkhole%20overview)
     
 - Two real-world case studies
 	- [Case study 1 – Microsoft Conficker (MS08-067)](Case%20study%201%20–%20Microsoft%20Conficker%20(MS08-067).md)
@@ -12,7 +12,8 @@ In this repo, you’ll find:
 - A short demo of sinkholing in action
     
 - And, to wrap it up, a walkthrough on setting up your own **Pi-hole** at home for safer, cleaner, and overall better browsing. -> [pi hole set up](https://github.com/BoPann/pi-hole-set-up)
-    
+
+Lastly, this is the official pihole github repo: https://github.com/pi-hole/pi-hole
 
 Let's dive in! 🚀 
 
