@@ -10,7 +10,7 @@ In this repo, you’ll find:
     
 - A short demo of sinkholing in action
     
-- And, to wrap it up, a walkthrough on setting up your own **Pi-hole** at home for safer, cleaner, and overall better browsing.
+- And, to wrap it up, a walkthrough on setting up your own **Pi-hole** at home for safer, cleaner, and overall better browsing. -> [pi hole set up](https://github.com/BoPann/pi-hole-set-up)
     
 
 Let's dive in! 🚀 
