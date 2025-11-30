@@ -1,6 +1,7 @@
-```md
+
+### You know what people like doing? Clicking links!
 Early one morning, a woman checks her email and finds an urgent message claiming her package couldn’t be delivered. She clicks the link without thinking. GOZ installs instantly, joining a hidden P2P botnet that quietly steals her banking logins. Later that day, she opens her banking app and sees her balance is zero—her money was drained through accounts controlled by cybercriminals. At the same time, another victim across town discovers all his files locked by the botnet’s ransomware partner. Both were hit by a single click.
-```
+
 
 - **Infection:** GOZ primarily spreads through **phishing emails**, malicious attachments, or drive-by downloads.
 - **Botnet Integration:** Once a computer is infected, it joins the **peer-to-peer (P2P) botnet**, communicating with other infected machines instead of a central server.

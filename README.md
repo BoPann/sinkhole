@@ -11,7 +11,7 @@ In this repo, you’ll find:
 	- [Case study 2 – GAMEOVER Zeus](Case%20study%202%20–%20GAMEOVER%20Zeus.md)
 - A short demo of sinkholing in action
     
-- And, to wrap it up, a walkthrough on setting up your own **Pi-hole** at home for safer, cleaner, and overall better browsing. -> [pi hole set up](https://github.com/BoPann/pi-hole-set-up.md)
+- And, to wrap it up, a walkthrough on setting up your own **Pi-hole** at home for safer, cleaner, and overall better browsing. -> [pi hole set up](https://github.com/BoPann/pi-hole-set-up)
     
 
 Let's dive in! 🚀 

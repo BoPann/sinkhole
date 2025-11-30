@@ -1,6 +1,6 @@
-```md
-The Worm No One Saw Coming One night, a student opens his laptop and realizes it’s acting up—slow, freezing, acting weird. He thinks, “Hmm, Windows being Windows…” The next morning, he sees the news on TV. He’s not alone. 15 million people worldwide have been infected by Conficker, a worm that spreads silently through unpatched machines and weak passwords.
-```
+
+### The Worm No One Saw Coming 
+One night, a student opens his laptop and realizes it’s acting up—slow, freezing, acting weird. He thinks, “Hmm, Windows being Windows…” The next morning, he sees the news on TV. He’s not alone. 15 million people worldwide have been infected by Conficker, a worm that spreads silently through unpatched machines and weak passwords.
 
 The Conficker worm, discovered in November 2008 by Microsoft, silently infected unpatched Windows machines (2000, XP, Vista, Server 2003/2008) without any user action—no clicking links or opening emails. It spread automatically via the MS08-067 vulnerability, scanning networks and jumping from computer to computer. By April 1, 2009, a built-in trigger was set to scan remote sources for instructions, potentially giving attackers access to sensitive data from governments, banks, and other services. At its peak, Conficker infected an estimated **15 million PCs**, making it one of the fastest-spreading and most dangerous worms in history.
 
