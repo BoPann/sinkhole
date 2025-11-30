@@ -11,6 +11,6 @@ The Conficker worm, discovered in November 2008 by Microsoft, silently infected 
 - **Resilience:** The combination of DGA and P2P fallback makes Conficker **difficult to fully eradicate**, allowing it to persist for years.
 
 
-### Extend Reading
+### Extend Readings
 - [Conficker Summary and Review](https://www.icann.org/en/system/files/files/conficker-summary-review-07may10-en.pdf)
 - [A Look Back on the Conficker Worm](https://www.youtube.com/watch?v=dbL9g7ykfmc&t=127s)
