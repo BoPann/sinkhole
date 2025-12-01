@@ -10,4 +10,5 @@ Early one morning, a woman checks her email and finds an urgent message claiming
 - **Resilience:** The P2P structure and DGA fallback make GOZ **hard to disrupt**, allowing it to operate even if some nodes are taken down.
 
 ### Extended Readings
-[Highly resilient peer-to-peer botnets are here: An analysis of Gameover Zeus](https://ieeexplore-ieee-org.seattleu.idm.oclc.org/document/6703693/references#references)
+- [Highly resilient peer-to-peer botnets are here: An analysis of Gameover Zeus](https://ieeexplore-ieee-org.seattleu.idm.oclc.org/document/6703693/references#references)
+- [SoK: P2PWNED - Modeling and Evaluating the Resilience of Peer-to-Peer Botnets](https://ieeexplore-ieee-org.seattleu.idm.oclc.org/document/6547104/footnotes#footnotes-id-fn3)
