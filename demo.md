@@ -8,7 +8,7 @@
 1. pick a mallicious domain (zhiju.me)
 2. open it before blocking
 3. add the domain to the denied list
-4. try open it up again
+4. try open it up again (sometimes you need to flush the dns or clean the web cashe)
 ![domains](imgs/domains.png)
 
 ### what is it doing under the hood? 
