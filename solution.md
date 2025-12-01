@@ -1,4 +1,4 @@
-
+`The solution is twofold`
 ### Global Domain Pre-registration (Sinkholing at the source)
 
 - Conficker’s DGA generates thousands of domains every day.
