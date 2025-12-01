@@ -14,7 +14,7 @@
 - Any request for known malicious domains (from blocklists or observed DGA domains) is intercepted locally and redirected to a safe address or blocked.
 
 
-It's worth to note:
+### It's worth to note (but out of scope of this presentation):
 1. **Conficker evolved into P2P variants** – Later versions of Conficker adopted a peer-to-peer structure, allowing infected machines to share updates directly, making the botnet more resilient even when domain-based C2 channels were blocked.
     
 2. **Gameover Zeus (GOZ) uses a more resilient P2P structure** – GOZ bots primarily connect to peers for commands. If peers are unresponsive, the bots fall back to connecting to hardcoded domain servers. To disrupt GOZ, researchers developed a two-step strategy: 
